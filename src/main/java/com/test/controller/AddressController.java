@@ -3,7 +3,6 @@ package com.test.controller;
 
 import com.test.exceptions.NotFoundException;
 import com.test.model.Address;
-import com.test.model.User;
 import com.test.service.AddressService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
